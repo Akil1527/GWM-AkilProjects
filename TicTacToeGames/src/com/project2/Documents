@@ -1,0 +1,36 @@
+*Tic-Tac-Toe Game - Beginner Level*
+
+This Java project is a classic implementation of the popular Tic-Tac-Toe game, designed for beginners. The game allows two players to take
+turns playing on a 3x3 board, aiming to create a line of their chosen symbol (X or O) either horizontally, vertically, or diagonally.
+The first player to achieve this line wins the game, and the game ends in a draw if all the board positions are filled without a winner.
+
+*Game Rules:*
+1. The game starts with an empty 3x3 board displayed on the screen, and two players are prompted to take turns.
+
+2. Player 1, also known as "X," makes the first move by entering their symbol (X) into an empty box of their choice.
+
+3. Player 2, also known as "O," takes the next turn and enters their symbol (O) into a different empty box on the board.
+
+4. Players continue taking turns alternately, filling empty boxes with their symbols until either:
+   - One player successfully forms a line of their symbol (X or O) horizontally, vertically, or diagonally, resulting in a win.
+   - All the boxes on the board are filled without a winner, leading to a draw.
+
+5. The game ends as soon as a win or draw condition is reached, and the final result is displayed on the screen.
+
+*How the Game Works:*
+1. The game starts with a welcome message and displays the empty 3x3 board on the screen.
+
+2. Player 1 (X) is prompted to make the first move by choosing an available box on the board to place their symbol (X).
+
+3. Player 2 (O) then takes their turn, choosing an available box to place their symbol (O).
+
+4. The game continues with players taking turns until a win or draw condition is met.
+
+5. After each player's turn, the board is updated and displayed on the screen.
+
+6. When the game concludes, the final result is displayed, announcing the winner (if any) or declaring a draw.
+
+*Code Description:*
+This code is a simple and beginner-friendly implementation of the Tic-Tac-Toe game in Java. It provides a console-based interface that 
+allows two players to play the game, taking turns to place their chosen symbols (X or O) on the 3x3 board. The code utilizes basic control
+structures and loops to handle player inputs, update the board state, and check for win or draw conditions.
