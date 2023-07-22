@@ -1,0 +1,4 @@
+Currency Converter in Java
+This Java project is a beginner-level web-based currency converter application that allows users to convert currencies from one denomination
+to another. The application provides a user-friendly interface for converting various currencies, such as converting Indian Rupees (INR) 
+to US dollars ,and supports multiple currency conversions based on current exchange rates in the market.
