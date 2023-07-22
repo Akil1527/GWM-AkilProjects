@@ -1,0 +1,37 @@
+*Text Editor in Java - Advanced Level*
+
+This Java project is an advanced text editor application that provides a comprehensive set of features to create, edit, store, and print
+text documents. The editor utilizes Java Swing components such as JTextArea, JMenu, JMenuItems, and JMenuBar to provide a user-friendly 
+graphical user interface (GUI) for performing various text-related tasks.
+
+*Key Features:*
+1. *Graphical User Interface (GUI):* The text editor offers a user-friendly GUI, allowing users to interact with the application easily.
+The main text editing area is represented by a JTextArea, where users can enter and manipulate text.
+
+2. *File Menu:* The file menu contains options to open existing text files, save the edited content, close the current file, and print the
+document for future reference.
+
+4. *Save Button :* The text editor includes a "Save" button, which allows users to save the changes made to the file and close it after 
+saving the data.
+
+5. *ActionListener:* The project utilizes ActionListener to detect user actions within the text editor. It helps in capturing events like
+button clicks, menu selections, and other user interactions.
+
+*Functionality:*
+1. When the text editor is launched, the GUI displays an empty JTextArea where users can enter and edit text.
+
+2. Users can use the file menu to open existing text files, save the edited content to the file, close the current file, or print the
+document for future reference.
+
+3. The edit menu allows users to cut, copy, and paste selected text within the JTextArea, providing basic text manipulation capabilities.
+
+4. After making changes to the content, users can use the "Save" button to save the data to the file and close the file.
+
+*Code Description:*
+This advanced text editor is implemented in Java using Swing components to provide an intuitive and feature-rich user interface. JTextArea
+is used as the main text editing component, while JMenu, JMenuItems, and JMenuBar are used to create the file and edit menus with their 
+respective options.
+
+ActionListener is used to detect user actions, enabling the application to respond to button clicks and menu selections effectively.
+The code ensures proper handling of file operations, allowing users to open, save, and close files, as well as cut, copy, and paste text 
+within the text editor.
