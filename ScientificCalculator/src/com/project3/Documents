@@ -1,0 +1,44 @@
+*Scientific Calculator - Intermediate Level*
+
+This Java project is a comprehensive scientific calculator designed for intermediate-level programmers. The calculator provides a 
+user-friendly interface that allows users to perform basic arithmetic operations as well as advanced mathematical functions, including 
+trigonometric functions, logarithms, and more.
+
+*Key Features:*
+1. *User Interface:* The scientific calculator offers a graphical user interface (GUI) that allows users to interact with the calculator
+easily. The interface includes buttons for different operations and functions, along with a display screen to show the input and output.
+
+2. *Basic Arithmetic Operations:* Users can perform standard arithmetic operations such as addition, subtraction, multiplication, and 
+division using the calculator.
+
+3. *Trigonometric Functions:* The calculator supports trigonometric functions like sine, cosine, tangent, as well as their inverse 
+functions (arcsine, arccosine, arctangent).
+
+4. *Logarithmic and Exponential Functions:* Users can calculate logarithms (log) and exponential (e^x) functions for any given input.
+
+5. *Square Root and Power Functions:* The calculator allows users to find the square root and raise a number to a given power.
+
+6. *Memory Functions:* Users can store and recall intermediate results using memory buttons (M+, M-, MR, MC).
+
+*How the Calculator Works:*
+1. The calculator starts by displaying the user interface with buttons for numbers, basic arithmetic operations, and various mathematical
+functions.
+
+2. Users can input numbers and perform standard arithmetic operations (addition, subtraction, multiplication, division) using the numeric
+and operation buttons.
+
+3. Advanced mathematical functions like trigonometric functions, logarithms, square root, and exponential functions are available to the 
+user through designated buttons.
+
+4. The calculator handles complex calculations, respecting the order of operations (BODMAS/BIDMAS), ensuring accurate results for all
+mathematical expressions.
+
+5. Users can use memory buttons (M+, M-, MR, MC) to store and recall intermediate results, making it easier to perform complex 
+calculations.
+
+6. The calculator displays the input and the result on the screen, allowing users to review their calculations.
+
+*Code Description:*
+This code is an intermediate-level scientific calculator implemented in Java. It offers a graphical user interface (GUI) that provides a 
+wide range of mathematical functions, including basic arithmetic operations, trigonometric functions, logarithms, square roots, and more.
+The calculator follows the standard rules of mathematical calculations and ensures accurate results for all expressions.
